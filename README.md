@@ -1,6 +1,6 @@
 # Dynamic Relaxation with Kinetic Damping for Form Finding
 
-[![DOI](pathtozenodobadge)](doi)
+[![DOI](https://zenodo.org/badge/901474127.svg)](https://doi.org/10.5281/zenodo.14365779)
 
 All algorithms written by T gordon.
 
@@ -33,4 +33,4 @@ _This GIF shows the simulation process of applying forces and observing the defo
 ## With thanks
 
 - **Michael Barnes** : for the original work in developing the DR methon for form finding
-- **Shervin Azadi & Pirouz Nourian**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041163.svg)](https://doi.org/10.5281/zenodo.4041163) for a similar implemtation of the original method by Barnes, without the later developments of kinetiic energy based damping
+- **Shervin Azadi & Pirouz Nourian**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041163.svg)](https://doi.org/10.5281/zenodo.4041163) for a similar implementation of the original method by Barnes, without the later development of kinetic energy based damping
