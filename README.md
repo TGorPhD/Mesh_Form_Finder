@@ -32,5 +32,5 @@ _This GIF shows the simulation process of applying forces and observing the defo
 
 ## With thanks
 
-- **Michael Barnes** : for the original work in developing the DR methon for form finding
-- **Shervin Azadi & Pirouz Nourian**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041163.svg)](https://doi.org/10.5281/zenodo.4041163) for a similar implementation of the original method by Barnes, without the later development of kinetic energy based damping
+- **Michael Barnes** : for the original work in developing the DR method for form finding
+- **Azadi & Nourian**: for a similar implementation of the original method by Barnes, without the later development of kinetic energy based damping
